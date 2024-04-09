@@ -28,3 +28,7 @@ For Blender
 
 6. Detic: Facebook Research: https://github.com/facebookresearch/Detic
 
+
+## Results:
+![](https://github.com/DhirajRouniyar/Assets/blob/main/Videos/OutputVisualizationVideoSeq2.mp4)
+
