@@ -28,7 +28,8 @@ For Blender
 
 6. Detic: Facebook Research: https://github.com/facebookresearch/Detic
 
+7. Marigold was used to improve the depth estimation.
 
 ## Results:
-![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Videos/OutputVisualizationVideoSeq2.gif)
+![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Computer_Vision/Scene5_gif.gif)
 
